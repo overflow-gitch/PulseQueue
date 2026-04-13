@@ -1,7 +1,3 @@
-Here’s a **short, clean README** perfect for submission 👇
-
----
-
 # 🏥 PulseQueue
 
 PulseQueue is a real-time hospital queue management system that allows staff to manage patients and provides a public view of wait times.
